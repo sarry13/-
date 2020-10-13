@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models\SonicTheMovie\characters\doctorRobotnik_model\sclera"
+	"$iris" "models\SonicTheMovie\characters\doctorRobotnik_model\eyes"
+	"$halflambert" 1
+}

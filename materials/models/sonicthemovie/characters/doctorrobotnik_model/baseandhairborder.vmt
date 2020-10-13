@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\SonicTheMovie\characters\doctorRobotnik_model\BaseAndHairborder"
+	"$bumpmap"     "models\SonicTheMovie\characters\doctorRobotnik_model\BaseAndHairborderbump"
+
+   	"$surfaceprop" "flesh"
+	"$phong" "1"
+
+	"$phongboost"	".1"
+	"$envmaptint"	"[.135 .135 .135]"
+	"$envmapfresnel"	"1.4"
+	"$normalmapalphaenvmapmask" 1
+	"$halflambert" "1"
+	"$ambientocclusion" "1"
+
+
+
+
+	"$phongexponenttexture" "models\SonicTheMovie\characters\doctorRobotnik_model\exponent"
+	"$cloakPassEnabled" 		"1"						
+	"$phongfresnelranges"	"[ .2 1.2 8]"	
+
+
+	"$nocull" "1"
+
+
+}
